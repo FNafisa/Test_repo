@@ -21,3 +21,15 @@ git branch <branch name>
 git checkout optional: -b <branch name>
 git merge <name of the other branch to merge in>
 
+
+Udno:
+git commit --amend 
+git revert <SHA>
+git reset
+
+
+Remot repo:
+git remote
+git push
+git pull
+
