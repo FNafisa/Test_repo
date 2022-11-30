@@ -1,0 +1,23 @@
+Clone repo:
+git clone <the linke of the repo> <assign name (optional)>
+
+Status:
+git status
+
+Review commits
+git log --oneline --stat
+git show OR git log -p
+
+
+Commits:
+git add <. OR * OR (file name, file name,...file name)>
+git commit -m <write the title of this commit, e.g: 'Add header to blog'>
+git diff <optional: 'file name'>
+
+
+Braching:
+git tag -a <tag name>
+git branch <branch name>
+git checkout optional: -b <branch name>
+git merge <name of the other branch to merge in>
+

@@ -1,0 +1,9 @@
+.venv
+.vscode
+*.xlsx
+*.csv
+*.
+*.pbix
+*.pdf
+*.zip
+professional/Project PoC/logs

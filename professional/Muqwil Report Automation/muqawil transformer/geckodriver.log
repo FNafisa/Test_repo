@@ -1,0 +1,1956 @@
+1668670403718	geckodriver	INFO	Listening on 127.0.0.1:53025
+1668670406804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53026" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0otADY"
+1668670408250	Marionette	INFO	Marionette enabled
+1668670408256	Marionette	INFO	Listening on port 53041
+Read port: 53041
+WebDriver BiDi listening on ws://127.0.0.1:53026
+1668670408364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0otADY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53026/devtools/browser/10ec712f-a70d-4d53-8770-da2c5c0ac45c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668670606438	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1668670708111	Marionette	INFO	Stopped listening on port 53041
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668670716342	geckodriver	INFO	Listening on 127.0.0.1:53168
+1668670719402	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53169" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileSCESAt"
+1668670719783	Marionette	INFO	Marionette enabled
+1668670719788	Marionette	INFO	Listening on port 53180
+Read port: 53180
+WebDriver BiDi listening on ws://127.0.0.1:53169
+1668670719901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileSCESAt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53169/devtools/browser/68e7c6e2-ec34-44c8-b0ad-beb92a536b93
+1668670739498	Marionette	INFO	Stopped listening on port 53180
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668670759719	geckodriver	INFO	Listening on 127.0.0.1:53310
+1668670762794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53311" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileCCa62O"
+1668670763172	Marionette	INFO	Marionette enabled
+1668670763176	Marionette	INFO	Listening on port 53321
+Read port: 53321
+WebDriver BiDi listening on ws://127.0.0.1:53311
+1668670763287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileCCa62O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53311/devtools/browser/10906880-b34f-4430-8d8c-f66282390ee4
+1668670771368	Marionette	INFO	Stopped listening on port 53321
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1668670771465	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:201
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:221
+1668670782590	geckodriver	INFO	Listening on 127.0.0.1:53514
+1668670785623	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileGeGZbm"
+1668670785991	Marionette	INFO	Marionette enabled
+1668670785995	Marionette	INFO	Listening on port 53526
+Read port: 53526
+WebDriver BiDi listening on ws://127.0.0.1:53515
+1668670786121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileGeGZbm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53515/devtools/browser/8c4663c4-e56e-4b53-897b-f650253a9d83
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1668671081203	Marionette	INFO	Stopped listening on port 53526
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668671092990	geckodriver	INFO	Listening on 127.0.0.1:53820
+1668671096054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53821" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileYeqmbB"
+1668671096428	Marionette	INFO	Marionette enabled
+1668671096433	Marionette	INFO	Listening on port 53832
+Read port: 53832
+WebDriver BiDi listening on ws://127.0.0.1:53821
+1668671096546	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileYeqmbB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53821/devtools/browser/37239632-d626-4adc-9384-82f6dac70d76
+1668671173101	Marionette	INFO	Stopped listening on port 53832
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Shutting down due to socket process crash.
+1668671215386	geckodriver	INFO	Listening on 127.0.0.1:54113
+1668671218447	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54114" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileBmF2Kt"
+1668671218831	Marionette	INFO	Marionette enabled
+1668671218835	Marionette	INFO	Listening on port 54125
+Read port: 54125
+WebDriver BiDi listening on ws://127.0.0.1:54114
+1668671218945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileBmF2Kt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54114/devtools/browser/ea2c8efa-3a29-4e2e-a6e9-63564a37f8fe
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668671489034	Marionette	INFO	Stopped listening on port 54125
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668671509612	geckodriver	INFO	Listening on 127.0.0.1:54610
+1668671512692	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54611" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile1R4Vcu"
+1668671513062	Marionette	INFO	Marionette enabled
+1668671513068	Marionette	INFO	Listening on port 54624
+Read port: 54624
+WebDriver BiDi listening on ws://127.0.0.1:54611
+1668671513182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile1R4Vcu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54611/devtools/browser/9cf0c55d-1a14-4c1c-815a-a23789f355af
+1668671566270	Marionette	INFO	Stopped listening on port 54624
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668671568752	geckodriver	INFO	Listening on 127.0.0.1:54682
+1668671571846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54683" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileenRmmf"
+1668671572273	Marionette	INFO	Marionette enabled
+1668671572279	Marionette	INFO	Listening on port 54695
+Read port: 
+1668671572280	geckodriver::browser	WARN	Failed fo convert  to u16
+WebDriver BiDi listening on ws://127.0.0.1:54683
+Read port: 54695
+1668671572531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileenRmmf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54683/devtools/browser/7d47bce1-1254-4e23-a541-9ed687c38036
+1668671574721	Marionette	INFO	Stopped listening on port 54695
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1668671606724	geckodriver	INFO	Listening on 127.0.0.1:54936
+1668671609797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54937" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileFf3ryd"
+1668671610167	Marionette	INFO	Marionette enabled
+1668671610173	Marionette	INFO	Listening on port 54948
+WebDriver BiDi listening on ws://127.0.0.1:54937
+Read port: 54948
+1668671610361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileFf3ryd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54937/devtools/browser/08228d71-9339-4535-9006-a38470e4ef25
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1668672125747	Marionette	INFO	Stopped listening on port 54948
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668672127728	geckodriver	INFO	Listening on 127.0.0.1:55164
+1668672130678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilev2iiCE"
+1668672133226	Marionette	INFO	Marionette enabled
+1668672133231	Marionette	INFO	Listening on port 55176
+Read port: 55176
+WebDriver BiDi listening on ws://127.0.0.1:55165
+1668672133378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilev2iiCE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55165/devtools/browser/65e225b6-e288-48f9-bb86-ea59401a9f8b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1668672519332	Marionette	INFO	Stopped listening on port 55176
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668672534340	geckodriver	INFO	Listening on 127.0.0.1:55518
+1668672537399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55519" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile88EQ7P"
+1668672537783	Marionette	INFO	Marionette enabled
+1668672537789	Marionette	INFO	Listening on port 55530
+Read port: 55530
+WebDriver BiDi listening on ws://127.0.0.1:55519
+1668672537897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile88EQ7P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55519/devtools/browser/626030cf-849f-4892-b1e4-358e3e229838
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668672616543	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1668673330149	Marionette	INFO	Stopped listening on port 55530
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668673334135	geckodriver	INFO	Listening on 127.0.0.1:56093
+1668673337185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56094" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileX5s2w1"
+1668673337561	Marionette	INFO	Marionette enabled
+1668673337566	Marionette	INFO	Listening on port 56106
+Read port: 56106
+WebDriver BiDi listening on ws://127.0.0.1:56094
+1668673337676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileX5s2w1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56094/devtools/browser/78cc111c-6858-4a9c-9131-2440156b909b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668673795285	Marionette	INFO	Stopped listening on port 56106
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 591: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1668673813347	geckodriver	INFO	Listening on 127.0.0.1:56660
+1668673822214	geckodriver	INFO	Listening on 127.0.0.1:56744
+1668673825273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56745" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilenoZOaP"
+1668673825681	Marionette	INFO	Marionette enabled
+1668673825690	Marionette	INFO	Listening on port 56756
+Read port: 56756
+WebDriver BiDi listening on ws://127.0.0.1:56745
+1668673825803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilenoZOaP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56745/devtools/browser/418af874-dc3f-4c31-b029-5c281259e8c4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668674255571	Marionette	INFO	Stopped listening on port 56756
+1668674409847	geckodriver	INFO	Listening on 127.0.0.1:56976
+1668674412906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56977" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0sbsRP"
+1668674413316	Marionette	INFO	Marionette enabled
+1668674413321	Marionette	INFO	Listening on port 56989
+Read port: 56989
+WebDriver BiDi listening on ws://127.0.0.1:56977
+1668674413416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0sbsRP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56977/devtools/browser/911cce63-84f9-4e2b-bc35-3b8dab4f2c07
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668674546388	Marionette	INFO	Stopped listening on port 56989
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668674588633	geckodriver	INFO	Listening on 127.0.0.1:57188
+1668674591702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57189" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile5Z2C0d"
+1668674592071	Marionette	INFO	Marionette enabled
+1668674592076	Marionette	INFO	Listening on port 57200
+WebDriver BiDi listening on ws://127.0.0.1:57189
+Read port: 57200
+1668674592255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile5Z2C0d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57189/devtools/browser/7f4e6152-1a69-4908-8925-f34735cb00fa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668674848736	Marionette	INFO	Stopped listening on port 57200
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668674871512	geckodriver	INFO	Listening on 127.0.0.1:57402
+1668674874581	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57403" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileOj6VgX"
+1668674874943	Marionette	INFO	Marionette enabled
+1668674874948	Marionette	INFO	Listening on port 57414
+WebDriver BiDi listening on ws://127.0.0.1:57403
+Read port: 57414
+1668674875167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileOj6VgX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57403/devtools/browser/445c09e0-552d-4d4e-9a4a-c399db8810e3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668675058838	Marionette	INFO	Stopped listening on port 57414
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668675078021	geckodriver	INFO	Listening on 127.0.0.1:57656
+1668675081099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57657" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiler4ehLs"
+1668675081455	Marionette	INFO	Marionette enabled
+1668675081461	Marionette	INFO	Listening on port 57669
+WebDriver BiDi listening on ws://127.0.0.1:57657
+Read port: 57669
+1668675081685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiler4ehLs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57657/devtools/browser/1015791e-647c-4c0b-8852-786c0b09054f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668675549008	Marionette	INFO	Stopped listening on port 57669
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10552, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668675556557	geckodriver	INFO	Listening on 127.0.0.1:57969
+1668675559626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57970" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileWJkrRZ"
+1668675560060	Marionette	INFO	Marionette enabled
+1668675560067	Marionette	INFO	Listening on port 57985
+WebDriver BiDi listening on ws://127.0.0.1:57970
+Read port: 57985
+1668675560340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileWJkrRZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57970/devtools/browser/82706383-98fe-41bd-bb49-7fb036db17fb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668675876058	geckodriver	INFO	Listening on 127.0.0.1:58312
+1668675879132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58313" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileLDeCay"
+1668675879515	Marionette	INFO	Marionette enabled
+1668675879521	Marionette	INFO	Listening on port 58324
+Read port: 58324
+WebDriver BiDi listening on ws://127.0.0.1:58313
+1668675879630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileLDeCay\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58313/devtools/browser/2bac72b3-2f94-49a6-a97b-51bc1840cb17
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668676334182	geckodriver	INFO	Listening on 127.0.0.1:58618
+1668676337252	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58619" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0vdU8D"
+1668676337624	Marionette	INFO	Marionette enabled
+1668676337629	Marionette	INFO	Listening on port 58630
+Read port: 58630
+WebDriver BiDi listening on ws://127.0.0.1:58619
+1668676337761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0vdU8D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58619/devtools/browser/0cac3a06-8c9e-42cf-bb3c-a8a9c9222c79
+1668676378900	geckodriver	INFO	Listening on 127.0.0.1:58776
+1668676381966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58777" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile36fOC6"
+1668676382334	Marionette	INFO	Marionette enabled
+1668676382339	Marionette	INFO	Listening on port 58788
+WebDriver BiDi listening on ws://127.0.0.1:58777
+Read port: 58788
+1668676382525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile36fOC6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58777/devtools/browser/e0ba0f91-e39e-499e-9dfb-67ae04efd8a8
+1668676443378	Marionette	INFO	Stopped listening on port 58788
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668676496909	geckodriver	INFO	Listening on 127.0.0.1:58930
+1668676499969	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58931" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilef1h72L"
+1668676500330	Marionette	INFO	Marionette enabled
+1668676500335	Marionette	INFO	Listening on port 58940
+WebDriver BiDi listening on ws://127.0.0.1:58931
+Read port: 58940
+1668676500565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilef1h72L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58931/devtools/browser/bb0ded5a-3b24-4cfd-b703-321df2dde41a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668676868345	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1668677036426	geckodriver	INFO	Listening on 127.0.0.1:51771
+1668677039494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51772" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileu60TYc"
+1668677039871	Marionette	INFO	Marionette enabled
+1668677039876	Marionette	INFO	Listening on port 51783
+Read port: 51783
+WebDriver BiDi listening on ws://127.0.0.1:51772
+1668677039991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileu60TYc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51772/devtools/browser/6e0edcb6-9d5d-48b0-9e93-b54359ae089e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668677522435	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1668677726504	Marionette	INFO	Stopped listening on port 51783
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 11000, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1668677732046	geckodriver	INFO	Listening on 127.0.0.1:52105
+1668677735124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52106" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileBZkjTp"
+1668677735507	Marionette	INFO	Marionette enabled
+1668677735512	Marionette	INFO	Listening on port 52119
+Read port: 52119
+WebDriver BiDi listening on ws://127.0.0.1:52106
+1668677735619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileBZkjTp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52106/devtools/browser/f15f3761-ba56-4fbe-a2c0-b9e2458c0eea
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668683592424	geckodriver	INFO	Listening on 127.0.0.1:60643
+1668683595583	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60644" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiledAf73o"
+1668683596366	Marionette	INFO	Marionette enabled
+1668683596379	Marionette	INFO	Listening on port 60655
+Read port: 60655
+WebDriver BiDi listening on ws://127.0.0.1:60644
+1668683596560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiledAf73o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60644/devtools/browser/a85c51c5-1bfb-46a7-9867-3133f6d9aba3
+1668683599787	Marionette	INFO	Stopped listening on port 60655
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1668683686255	geckodriver	INFO	Listening on 127.0.0.1:60681
+1668683689348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60682" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilexF5yPv"
+1668683689752	Marionette	INFO	Marionette enabled
+1668683689757	Marionette	INFO	Listening on port 60691
+Read port: 60691
+WebDriver BiDi listening on ws://127.0.0.1:60682
+1668683689855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilexF5yPv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60682/devtools/browser/9352ea28-7daf-42a8-9532-ce7243685fd1
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+1668683699623	Marionette	INFO	Stopped listening on port 60691
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1668683704535	geckodriver	INFO	Listening on 127.0.0.1:60781
+1668683707627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60782" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileRqQRwm"
+1668683708009	Marionette	INFO	Marionette enabled
+1668683708015	Marionette	INFO	Listening on port 60791
+Read port: 60791
+WebDriver BiDi listening on ws://127.0.0.1:60782
+1668683708122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileRqQRwm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60782/devtools/browser/3a605ea5-b9db-4a26-9e2c-b13247546674
+JavaScript error: https://sca.nabdsys.com/Content_v4.7.5(15-5-17)/assets/global/plugins/bootstrap/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://sca.nabdsys.com/ContentNew/chat/js/bootstrapValidator.min.js, line 10: Error: BootstrapValidator's JavaScript requires jQuery
+JavaScript error: https://sca.nabdsys.com/ContentNew/global/plugins/jquery.blockui.min.js, line 15: ReferenceError: jQuery is not defined
+JavaScript error: https://sca.nabdsys.com/Scripts/jquery.signalR-2.1.2.js, line 45: Error: jQuery was not found. Please ensure jQuery is referenced before the SignalR client JavaScript file.
+JavaScript error: https://sca.nabdsys.com/signalr/hubs, line 17: TypeError: $ is undefined
+JavaScript error: https://sca.nabdsys.com/Content012016/global/plugins/jquery-titlealert-0.7/jquery.titlealert.js, line 140: ReferenceError: jQuery is not defined
+JavaScript error: https://sca.nabdsys.com/Content_v4.7.5(15-5-17)/assets/global/scripts/app.js, line 1018: ReferenceError: jQuery is not defined
+JavaScript error: https://sca.nabdsys.com/ChatNabd/ChatIntegration?lang=en&clientname=sca&webURLSource=muqawil.org&supportemail=cs@sca.sa, line 25: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.error: services.settings: 
+  main/normandy-recipes-capabilities Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+1668684222983	Marionette	INFO	Stopped listening on port 60791
+1668684223040	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/Remoteconsole.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+JavaScript error: https://sca.nabdsys.com/ContentNew/global/plugins/jquery.blockui.min.js, line 15: ReferenceError: jQuery is not defined
+JavaScript error: https://sca.nabdsys.com/signalr/hubs, line 17: TypeError: $ is undefined
+JavaScript error: https://sca.nabdsys.com/Content012016/global/plugins/jquery-titlealert-0.7/jquery.titlealert.js, line 140: ReferenceError: jQuery is not defined
+JavaScript error: https://sca.nabdsys.com/Content_v4.7.5(15-5-17)/assets/global/scripts/app.js, line 1018: ReferenceError: jQuery is not defined
+JavaScript error: https://sca.nabdsys.com/ChatNabd/ChatIntegration?lang=en&clientname=sca&webURLSource=muqawil.org&supportemail=cs@sca.sa, line 25: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668684554716	Marionette	INFO	Stopped listening on port 60922
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668684572940	geckodriver	INFO	Listening on 127.0.0.1:63402
+1668684576011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63403" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileS5K7Ew"
+1668684576419	Marionette	INFO	Marionette enabled
+1668684576424	Marionette	INFO	Listening on port 63414
+Read port: 63414
+WebDriver BiDi listening on ws://127.0.0.1:63403
+1668684576517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileS5K7Ew\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63403/devtools/browser/231b555d-18b6-408b-9857-9666c55415d1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668685060751	Marionette	INFO	Stopped listening on port 63414
+1668687982489	geckodriver	INFO	Listening on 127.0.0.1:65022
+1668687985611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65023" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilepn61fk"
+1668687986014	Marionette	INFO	Marionette enabled
+1668687986019	Marionette	INFO	Listening on port 65033
+Read port: 65033
+WebDriver BiDi listening on ws://127.0.0.1:65023
+1668687986125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilepn61fk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65023/devtools/browser/d715e43a-c440-4fb3-b478-57199a47dbd5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668688479774	Marionette	INFO	Stopped listening on port 65033
+1668914390165	geckodriver	INFO	Listening on 127.0.0.1:55633
+1668914393314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55634" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilexFmSCw"
+1668914394962	Marionette	INFO	Marionette enabled
+1668914394969	Marionette	INFO	Listening on port 55647
+Read port: 55647
+WebDriver BiDi listening on ws://127.0.0.1:55634
+1668914395092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilexFmSCw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55634/devtools/browser/82a87a73-5e3d-4802-8ae5-7aa44062571e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668914642364	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+1668914949707	Marionette	INFO	Stopped listening on port 55647
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54155" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileWGYAjY"
+1668914950388	Marionette	INFO	Marionette enabled
+1668914950395	Marionette	INFO	Listening on port 54168
+Read port: 54168
+WebDriver BiDi listening on ws://127.0.0.1:54155
+1668914950510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileWGYAjY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54155/devtools/browser/afaf0c27-0224-4561-87d6-3f24fcb734c0
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+1668918528272	geckodriver	INFO	Listening on 127.0.0.1:56901
+1668918531369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56902" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilevKNv6P"
+1668918531859	Marionette	INFO	Marionette enabled
+1668918531865	Marionette	INFO	Listening on port 56914
+Read port: 56914
+WebDriver BiDi listening on ws://127.0.0.1:56902
+1668918531964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilevKNv6P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56902/devtools/browser/97c4a3e2-4122-42b3-be15-c6c71d09e0db
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-providers Signature failed again InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/doh-providers)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/tippytop Signature failed  InvalidSignatureError: Invalid content signature (main/tippytop)
+console.error: services.settings: 
+  main/tippytop local data was corrupted
+console.warn: services.settings: main/tippytop Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/tippytop Signature failed again InvalidSignatureError: Invalid content signature (main/tippytop)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/tippytop)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668919027240	Marionette	INFO	Stopped listening on port 56914
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668919039446	geckodriver	INFO	Listening on 127.0.0.1:57174
+1668919042521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57175" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiletJqOMQ"
+1668919042947	Marionette	INFO	Marionette enabled
+1668919042953	Marionette	INFO	Listening on port 57191
+Read port: 57191
+WebDriver BiDi listening on ws://127.0.0.1:57175
+1668919043071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiletJqOMQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57175/devtools/browser/09851c9e-12b2-4fd6-8095-8010fe61c4d4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+1668919553459	geckodriver	INFO	Listening on 127.0.0.1:57528
+1668919556585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57529" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileNM3hHy"
+1668919556997	Marionette	INFO	Marionette enabled
+1668919557003	Marionette	INFO	Listening on port 57541
+Read port: 57541
+WebDriver BiDi listening on ws://127.0.0.1:57529
+1668919557114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileNM3hHy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57529/devtools/browser/849a39cd-356c-4dce-bb90-9851e6e1c060
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668919693997	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668919764918	Marionette	INFO	Stopped listening on port 57541
+1668919796864	geckodriver	INFO	Listening on 127.0.0.1:57787
+1668919800040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57788" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilebm0ic6"
+1668919800479	Marionette	INFO	Marionette enabled
+1668919800484	Marionette	INFO	Listening on port 57798
+WebDriver BiDi listening on ws://127.0.0.1:57788
+Read port: 57798
+1668919800630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilebm0ic6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57788/devtools/browser/9e99580f-4d87-4dd2-b1c2-88fbd404df63
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1668919943781	Marionette	INFO	Stopped listening on port 57798
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668919953224	geckodriver	INFO	Listening on 127.0.0.1:57899
+1668919956353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57900" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0rcHkN"
+1668919956772	Marionette	INFO	Marionette enabled
+1668919956777	Marionette	INFO	Listening on port 57912
+Read port: 57912
+WebDriver BiDi listening on ws://127.0.0.1:57900
+1668919956840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0rcHkN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57900/devtools/browser/65ff3f4d-8e37-46b0-91c7-a77582822fda
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668920152909	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-providers Signature failed again InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/doh-providers)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+Shutting down due to socket process crash.
+1668920668666	geckodriver	INFO	Listening on 127.0.0.1:58243
+1668920671792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58244" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileHrwr8c"
+1668920672192	Marionette	INFO	Marionette enabled
+1668920672198	Marionette	INFO	Listening on port 58256
+Read port: 58256
+WebDriver BiDi listening on ws://127.0.0.1:58244
+1668920672298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileHrwr8c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58244/devtools/browser/7790f752-583b-426d-b091-491ba7db2220
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668920871570	Marionette	INFO	Stopped listening on port 58256
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668920875210	geckodriver	INFO	Listening on 127.0.0.1:64572
+1668920878294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64573" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiletK0jhR"
+1668920878706	Marionette	INFO	Marionette enabled
+1668920878710	Marionette	INFO	Listening on port 64586
+Read port: 64586
+WebDriver BiDi listening on ws://127.0.0.1:64573
+1668920878807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiletK0jhR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64573/devtools/browser/f8ec2e7a-0a44-4378-9020-015b6eac292b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668921120677	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1668921174888	Marionette	INFO	Stopped listening on port 64586
+[Parent 21512, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668921178297	geckodriver	INFO	Listening on 127.0.0.1:64716
+1668921181412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64717" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilembAADO"
+1668921181869	Marionette	INFO	Marionette enabled
+1668921181875	Marionette	INFO	Listening on port 64729
+WebDriver BiDi listening on ws://127.0.0.1:64717
+Read port: 64729
+1668921182024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilembAADO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64717/devtools/browser/d46a5a44-b4e0-4746-9884-8b8a6f8414fc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+1668921725446	Marionette	INFO	Stopped listening on port 64729
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668921847169	geckodriver	INFO	Listening on 127.0.0.1:65093
+1668921850269	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65094" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile4Ce5r7"
+1668921850853	Marionette	INFO	Marionette enabled
+1668921850862	Marionette	INFO	Listening on port 65104
+Read port: 65104
+WebDriver BiDi listening on ws://127.0.0.1:65094
+1668921851015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile4Ce5r7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65094/devtools/browser/30d810d0-d547-48f3-a1b6-d0bc0c6c3e00
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+JavaScript error: https://muqawil.org/admin_assets/plugins/z/zzzz.js, line 1: TypeError: $.fn.dataTable is undefined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-providers Signature failed again InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/doh-providers)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+1668922307555	Marionette	INFO	Stopped listening on port 65104
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1668922309207	geckodriver	INFO	Listening on 127.0.0.1:65370
+1668922312311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65371" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileduWPFF"
+1668922312718	Marionette	INFO	Marionette enabled
+1668922312723	Marionette	INFO	Listening on port 65382
+Read port: 65382
+WebDriver BiDi listening on ws://127.0.0.1:65371
+1668922312822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileduWPFF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65371/devtools/browser/0fd695a0-ca77-44d5-a572-66a9f41f5efe
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668922491681	Marionette	INFO	Stopped listening on port 65382
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668922496131	geckodriver	INFO	Listening on 127.0.0.1:65466
+1668922499234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65467" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile6LpuN9"
+1668922499664	Marionette	INFO	Marionette enabled
+1668922499669	Marionette	INFO	Listening on port 65479
+Read port: 65479
+WebDriver BiDi listening on ws://127.0.0.1:65467
+1668922499734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile6LpuN9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65467/devtools/browser/f1ded930-4d3e-49ca-b2cc-0a99b16626bc
+Shutting down due to socket process crash.
+1668922508314	geckodriver	INFO	Listening on 127.0.0.1:49197
+1668922511396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49198" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileI4Ob77"
+1668922511846	Marionette	INFO	Marionette enabled
+1668922511851	Marionette	INFO	Listening on port 49211
+WebDriver BiDi listening on ws://127.0.0.1:49198
+Read port: 49211
+1668922512091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileI4Ob77\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49198/devtools/browser/3828870a-b157-408a-930b-4b6974b656ff
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668922706580	Marionette	INFO	Stopped listening on port 49211
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668922715575	geckodriver	INFO	Listening on 127.0.0.1:49748
+1668922718702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49749" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileaUEGas"
+1668922719133	Marionette	INFO	Marionette enabled
+1668922719138	Marionette	INFO	Listening on port 49760
+WebDriver BiDi listening on ws://127.0.0.1:49749
+Read port: 49760
+1668922719230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileaUEGas\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49749/devtools/browser/c3a78a7e-feaa-4f99-9504-e73cdcd7fd90
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+1668924710724	Marionette	INFO	Stopped listening on port 49760
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "49966" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileDec9C3"
+1668923259886	Marionette	INFO	Marionette enabled
+1668923259892	Marionette	INFO	Listening on port 49977
+WebDriver BiDi listening on ws://127.0.0.1:49966
+Read port: 49977
+1668923260154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileDec9C3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49966/devtools/browser/4f1c9eb2-00d3-4853-9e0e-bbc1bab267c6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+1668924129969	geckodriver	INFO	Listening on 127.0.0.1:50426
+1668924133011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50427" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileUWHo2X"
+1668924133379	Marionette	INFO	Marionette enabled
+1668924133385	Marionette	INFO	Listening on port 50439
+WebDriver BiDi listening on ws://127.0.0.1:50427
+Read port: 50439
+1668924133560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileUWHo2X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50427/devtools/browser/f702dcd5-bf94-4a65-b35b-0bfec4f4435b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+1668924711875	Marionette	INFO	Stopped listening on port 50439
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50593" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilerT3Qhv"
+1668924595124	Marionette	INFO	Marionette enabled
+1668924595129	Marionette	INFO	Listening on port 50605
+WebDriver BiDi listening on ws://127.0.0.1:50593
+Read port: 50605
+1668924595304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilerT3Qhv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50593/devtools/browser/9192f8b2-daac-4004-b120-d682ac352cfa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+1668928162906	Marionette	INFO	Stopped listening on port 50605
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54144" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileRXEt9X"
+1668927443428	Marionette	INFO	Marionette enabled
+1668927443434	Marionette	INFO	Listening on port 54164
+Read port: 54164
+WebDriver BiDi listening on ws://127.0.0.1:54144
+1668927443530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileRXEt9X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54144/devtools/browser/a3a5e3dc-f01f-47c1-83cd-3dcbfd393b8a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-providers Signature failed again InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/doh-providers)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/tippytop Signature failed  InvalidSignatureError: Invalid content signature (main/tippytop)
+console.error: services.settings: 
+  main/tippytop local data was corrupted
+console.warn: services.settings: main/tippytop Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/tippytop Signature failed again InvalidSignatureError: Invalid content signature (main/tippytop)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/tippytop)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+1668928164330	Marionette	INFO	Stopped listening on port 54164
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54502" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileVslBf3"
+1668928162358	Marionette	INFO	Marionette enabled
+1668928162364	Marionette	INFO	Listening on port 54519
+Read port: 54519
+WebDriver BiDi listening on ws://127.0.0.1:54502
+1668928162476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileVslBf3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54502/devtools/browser/a2b98999-dbfa-449b-a6bd-46d96ae4bd8e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668928554109	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/tippytop Signature failed  InvalidSignatureError: Invalid content signature (main/tippytop)
+console.error: services.settings: 
+  main/tippytop local data was corrupted
+console.warn: services.settings: main/tippytop Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/tippytop Signature failed again InvalidSignatureError: Invalid content signature (main/tippytop)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/tippytop)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 374))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:374:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:58:25
+send@resource://devtools/server/devtools-server-connection.js:103:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1076:10
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1885:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668929250961	Marionette	INFO	Stopped listening on port 54519
+e-debugging-port" "55110" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileD0eUya"
+1668929245689	Marionette	INFO	Marionette enabled
+1668929245698	Marionette	INFO	Listening on port 55126
+Read port: 55126
+WebDriver BiDi listening on ws://127.0.0.1:55110
+1668929245819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileD0eUya\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55110/devtools/browser/960d35b9-0cf4-41ab-80b7-fd3fcc1d243f
+1668929248349	Marionette	INFO	Stopped listening on port 55121668929250618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55132" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileKoS5qO"
+1668929251440	Marionette	INFO	Marionette enabled
+1668929251448	Marionette	INFO	Listening on port 55144
+Read port: 55144
+WebDriver BiDi listening on ws://127.0.0.1:55132
+1668929251611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileKoS5qO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55132/devtools/browser/e3993b74-9da5-4e2d-8d32-c3e7469f14f5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668929447533	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+1668930813607	Marionette	INFO	Stopped listening on port 55144
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55834" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile3M2mRz"
+1668930810293	Marionette	INFO	Marionette enabled
+1668930810298	Marionette	INFO	Listening on port 55846
+WebDriver BiDi listening on ws://127.0.0.1:55834
+Read port: 55846
+1668930810604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile3M2mRz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55834/devtools/browser/b8b9459f-acd0-4a8e-aa5b-db2eda6ddc94
+1668930818567	Marionette	INFO	Stopped listening on port 55846
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 13364, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+cal\\Temp\\rust_mozprofileOzejme"
+1668930815749	Marionette	INFO	Marionette enabled
+1668930815754	Marionette	INFO	Listening on port 55874
+Read port: 55874
+WebDriver BiDi listening on ws://127.0.0.1:55852
+1668930815853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileOzejme\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55852/devtools/browser/9c2f879e-52ce-43c6-942d-9e738eeb98bb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668931012036	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1668931047272	Marionette	INFO	Stopped listening on port 55874
+1668932100890	geckodriver	INFO	Listening on 127.0.0.1:56419
+1668932103996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56420" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilerhOVgp"
+1668932104441	Marionette	INFO	Marionette enabled
+1668932104448	Marionette	INFO	Listening on port 56433
+WebDriver BiDi listening on ws://127.0.0.1:56420
+Read port: 56433
+1668932104710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilerhOVgp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56420/devtools/browser/06178c20-8c3c-4c0e-ad10-3b7a219cbc46
+1668932126367	Marionette	INFO	Stopped listening on port 56433
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56440" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilej1sOEp"
+1668932110567	Marionette	INFO	Marionette enabled
+1668932110579	Marionette	INFO	Listening on port 56461
+Read port: 56461
+WebDriver BiDi listening on ws://127.0.0.1:56440
+1668932110797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilej1sOEp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56440/devtools/browser/14090165-02cd-4bf1-936e-1fcd9c78618a
+1668932151533	Marionette	INFO	Stopped listening on port 56461
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668932427519	geckodriver	INFO	Listening on 127.0.0.1:56716
+1668932430604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56717" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile8jLqqv"
+1668932431006	Marionette	INFO	Marionette enabled
+1668932431012	Marionette	INFO	Listening on port 56728
+Read port: 56728
+WebDriver BiDi listening on ws://127.0.0.1:56717
+1668932431108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile8jLqqv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56717/devtools/browser/fb2b4f4e-867a-4958-bc8d-4c2eff03a14a
+1668932547538	Marionette	INFO	Stopped listening on port 56728
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56735" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileZTWnDr"
+1668932436296	Marionette	INFO	Marionette enabled
+1668932436301	Marionette	INFO	Listening on port 56758
+Read port: 56758
+WebDriver BiDi listening on ws://127.0.0.1:56735
+1668932436415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileZTWnDr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56735/devtools/browser/3c84dbb3-50a7-4675-a43c-97f4e7ab9d17
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668932584306	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1668932697796	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1668932728027	Marionette	INFO	Stopped listening on port 56758
+1668933783764	geckodriver	INFO	Listening on 127.0.0.1:57341
+1668933786823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57342" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilegtqwtA"
+1668933787287	Marionette	INFO	Marionette enabled
+1668933787292	Marionette	INFO	Listening on port 57356
+WebDriver BiDi listening on ws://127.0.0.1:57342
+Read port: 57356
+1668933787518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilegtqwtA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57342/devtools/browser/33bea709-0799-4726-9d87-4ee3a7267cd0
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+1668937849251	Marionette	INFO	Stopped listening on port 57356
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+: "Falling back to a synchronous message for: https://muqawil.org."
+1668933941824	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1668934047191	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1668934077435	Marionette	INFO	Stopped listening on port 57383
+1668937971659	geckodriver	INFO	Listening on 127.0.0.1:59236
+1668937974734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59237" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilecE1xvn"
+1668937976334	Marionette	INFO	Marionette enabled
+1668937976340	Marionette	INFO	Listening on port 59250
+Read port: 59250
+WebDriver BiDi listening on ws://127.0.0.1:59237
+1668937976458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilecE1xvn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59237/devtools/browser/c053c3cc-93e6-42d2-bc4d-0fc982ec1a21
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+1668942064344	Marionette	INFO	Stopped listening on port 59250
+[Parent 12212, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+nner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59616" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileCJwfcs"
+1668938452875	Marionette	INFO	Marionette enabled
+1668938452882	Marionette	INFO	Listening on port 59629
+WebDriver BiDi listening on ws://127.0.0.1:59616
+Read port: 59629
+1668938452999	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileCJwfcs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59616/devtools/browser/1bc0a8f5-6835-4205-ade4-08b05ff0cfe9
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+1668942062966	Marionette	INFO	Stopped listening on port 59629
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+: "Falling back to a synchronous message for: https://muqawil.org."
+1668938602201	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1668938717206	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1668938747545	Marionette	INFO	Stopped listening on port 59656
+[Parent 11692, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668942204917	geckodriver	INFO	Listening on 127.0.0.1:61281
+1668942207970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61282" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile53QVep"
+1668942208473	Marionette	INFO	Marionette enabled
+1668942208479	Marionette	INFO	Listening on port 61297
+Read port: 61297
+WebDriver BiDi listening on ws://127.0.0.1:61282
+1668942208605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile53QVep\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61282/devtools/browser/63867dfc-9dc9-4a18-93e7-6ebfd4c75606
+1668942294172	Marionette	INFO	Stopped listening on port 61297
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61304" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilet0sG5B"
+1668942213650	Marionette	INFO	Marionette enabled
+1668942213656	Marionette	INFO	Listening on port 61329
+Read port: 61329
+WebDriver BiDi listening on ws://127.0.0.1:61304
+1668942213750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilet0sG5B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61304/devtools/browser/c5adbc3c-2733-47de-834c-777ac7ccff16
+1668942269883	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1668942295070	Marionette	INFO	Stopped listening on port 61329
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668942304417	geckodriver	INFO	Listening on 127.0.0.1:61433
+1668942307464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61434" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileLsGXHs"
+1668942307868	Marionette	INFO	Marionette enabled
+1668942307874	Marionette	INFO	Listening on port 61447
+Read port: 61447
+WebDriver BiDi listening on ws://127.0.0.1:61434
+1668942307972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileLsGXHs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61434/devtools/browser/41356827-d37c-4463-a1bc-6ce23722293c
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-providers Signature failed again InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/doh-providers)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+1668944105134	Marionette	INFO	Stopped listening on port 61447
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62413" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileffmuCn"
+1668943684524	Marionette	INFO	Marionette enabled
+1668943684530	Marionette	INFO	Listening on port 62429
+Read port: 62429
+WebDriver BiDi listening on ws://127.0.0.1:62413
+1668943684633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileffmuCn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62413/devtools/browser/24272729-86ee-428a-8c7c-afec8a16aac6
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+1668944107574	Marionette	INFO	Stopped listening on port 62429
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+: "Falling back to a synchronous message for: https://muqawil.org."
+1668943834776	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1668943949756	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1668943980054	Marionette	INFO	Stopped listening on port 62458
+1668944060171	geckodriver	INFO	Listening on 127.0.0.1:62691
+1668944096700	geckodriver	INFO	Listening on 127.0.0.1:62714
+1668944099787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62715" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0YzOUQ"
+1668944100330	Marionette	INFO	Marionette enabled
+1668944100336	Marionette	INFO	Listening on port 62728
+Read port: 62728
+WebDriver BiDi listening on ws://127.0.0.1:62715
+1668944100448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0YzOUQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62715/devtools/browser/bdf67ff2-00c2-4243-a54d-dc4305dcd9d7
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+1668944128318	Marionette	INFO	Stopped listening on port 62728
+1668944147135	geckodriver	INFO	Listening on 127.0.0.1:62784
+1668944150181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62785" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0NVtLn"
+1668944150578	Marionette	INFO	Marionette enabled
+1668944150584	Marionette	INFO	Listening on port 62798
+Read port: 62798
+WebDriver BiDi listening on ws://127.0.0.1:62785
+1668944150689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0NVtLn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62785/devtools/browser/386c242c-1b17-476e-9fad-3307cbf07035
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignconsole.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-providers Signature failed again InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/doh-providers)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSet1668945326771	Marionette	INFO	Stopped listening on port 62798
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Frame'
+1668945325893	Marionette	INFO	Stopped listening on port 62835
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64104" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile4wx3er"
+1668945103205	Marionette	INFO	Marionette enabled
+1668945103210	Marionette	INFO	Listening on port 64114
+Read port: 64114
+WebDriver BiDi listening on ws://127.0.0.1:64104
+1668945103332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile4wx3er\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64104/devtools/browser/75c7ecdf-a07c-4a15-8997-23c33233c507
+1668945194596	Marionette	INFO	Stopped listening on port 64114
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668945214760	geckodriver	INFO	Listening on 127.0.0.1:64189
+1668945217796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64190" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileu9kb0d"
+1668945218199	Marionette	INFO	Marionette enabled
+1668945218206	Marionette	INFO	Listening on port 64201
+Read port: 64201
+WebDriver BiDi listening on ws://127.0.0.1:64190
+1668945218310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileu9kb0d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64190/devtools/browser/3f9a94ba-4ee2-4f10-a281-02d23cde1af0
+1668945271091	Marionette	INFO	Stopped listening on port 64201
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+rs\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiletWuRVY"
+1668945225533	Marionette	INFO	Marionette enabled
+1668945225539	Marionette	INFO	Listening on port 64237
+Read port: 64237
+WebDriver BiDi listening on ws://127.0.0.1:64218
+1668945225648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiletWuRVY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64218/devtools/browser/226c25c1-dcfe-4103-af42-e3cc86b45198
+1668945230908	Marionette	INFO	Stopped listening on port 64237
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668945282714	geckodriver	INFO	Listening on 127.0.0.1:64305
+1668945285746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64306" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile9NoQjA"
+1668945286313	Marionette	INFO	Marionette enabled
+1668945286324	Marionette	INFO	Listening on port 64324
+Read port: 64324
+WebDriver BiDi listening on ws://127.0.0.1:64306
+1668945286513	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile9NoQjA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64306/devtools/browser/819874dc-5087-4ee6-8b9b-9623651c93d5
+1668945299600	Marionette	INFO	Stopped listening on port 64324
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64333" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile5AFvhO"
+1668945292273	Marionette	INFO	Marionette enabled
+1668945292282	Marionette	INFO	Listening on port 64360
+Read port: 64360
+WebDriver BiDi listening on ws://127.0.0.1:64333
+1668945292407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile5AFvhO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64333/devtools/browser/e0d1d452-781a-403a-a8df-00d06b2ae387
+1668945298694	Marionette	INFO	Stopped listening on port 64360
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668945333011	geckodriver	INFO	Listening on 127.0.0.1:64553
+1668945336065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64554" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileFEDrvW"
+1668945336470	Marionette	INFO	Marionette enabled
+1668945336476	Marionette	INFO	Listening on port 64565
+Read port: 64565
+WebDriver BiDi listening on ws://127.0.0.1:64554
+1668945336579	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileFEDrvW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64554/devtools/browser/67998563-14de-4273-9693-5bfb72b1e291
+1668945651459	Marionette	INFO	Stopped listening on port 64565
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+rs\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilexmNGGC"
+1668945341663	Marionette	INFO	Marionette enabled
+1668945341670	Marionette	INFO	Listening on port 64600
+Read port: 64600
+WebDriver BiDi listening on ws://127.0.0.1:64578
+1668945341775	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilexmNGGC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64578/devtools/browser/c00d48a2-15fe-4ac9-b625-98a7b55c9057
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668945483860	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1668945602530	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1668945627811	Marionette	INFO	Stopped listening on port 64600
+[Parent 25820, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1668945654381	geckodriver	INFO	Listening on 127.0.0.1:64851
+1668945657435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64852" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile07yD5r"
+1668945657933	Marionette	INFO	Marionette enabled
+1668945657939	Marionette	INFO	Listening on port 64863
+Read port: 64863
+WebDriver BiDi listening on ws://127.0.0.1:64852
+1668945658041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile07yD5r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64852/devtools/browser/5f25a9e6-e39e-43e2-940f-c8511a924016
+1668945670021	Marionette	INFO	Stopped listening on port 64863
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 20188, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+Marionette enabled
+1668945663309	Marionette	INFO	Listening on port 64892
+Read port: 64892
+WebDriver BiDi listening on ws://127.0.0.1:64870
+1668945663419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileRxJfKV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64870/devtools/browser/342b66ee-4a47-4dec-bee6-471ad8635840
+1668945716178	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1668945719957	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1668945807511	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1668945912104	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1668945937327	Marionette	INFO	Stopped listening on port 64892
+1669157588230	geckodriver	INFO	Listening on 127.0.0.1:56663
+1669157591305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56664" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileC9mViQ"
+1669157591778	Marionette	INFO	Marionette enabled
+1669157591784	Marionette	INFO	Listening on port 56680
+WebDriver BiDi listening on ws://127.0.0.1:56664
+Read port: 56680
+1669157591992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileC9mViQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56664/devtools/browser/ceae0f0d-35ba-413a-a0eb-517dc14ec89a
+1669158157406	Marionette	INFO	Stopped listening on port 56680
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56688" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileDccRmm"
+1669157597901	Marionette	INFO	Marionette enabled
+1669157597906	Marionette	INFO	Listening on port 56709
+WebDriver BiDi listening on ws://127.0.0.1:56688
+Read port: 56709
+1669157598133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileDccRmm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56688/devtools/browser/62440d01-4306-4998-acff-656c0059a54f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1669157740716	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669157845185	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669157870414	Marionette	INFO	Stopped listening on port 56709
+1669184601744	geckodriver	INFO	Listening on 127.0.0.1:59704
+1669184604863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59705" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilePPGXpt"
+1669184606497	Marionette	INFO	Marionette enabled
+1669184606504	Marionette	INFO	Listening on port 59716
+Read port: 59716
+WebDriver BiDi listening on ws://127.0.0.1:59705
+1669184606622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilePPGXpt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59705/devtools/browser/b1418637-4094-4b6d-981c-d738448b57eb
+1669185091426	Marionette	INFO	Stopped listening on port 59716
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59726" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilerJRE26"
+1669184612124	Marionette	INFO	Marionette enabled
+1669184612130	Marionette	INFO	Listening on port 59746
+Read port: 59746
+WebDriver BiDi listening on ws://127.0.0.1:59726
+1669184612230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilerJRE26\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59726/devtools/browser/c71334c4-0110-4bfd-b1e5-26b85a01324f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1669185089928	Marionette	INFO	Stopped listening on port 59746
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669185094746	geckodriver	INFO	Listening on 127.0.0.1:59942
+1669185097818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59943" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileogbmmn"
+1669185098218	Marionette	INFO	Marionette enabled
+1669185098223	Marionette	INFO	Listening on port 59955
+Read port: 59955
+WebDriver BiDi listening on ws://127.0.0.1:59943
+1669185098318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileogbmmn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59943/devtools/browser/d600b6ee-a6a8-4766-9eb5-f3da67879123
+1669186488156	Marionette	INFO	Stopped listening on port 59955
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59963" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileTZqDkh"
+1669185103520	Marionette	INFO	Marionette enabled
+1669185103526	Marionette	INFO	Listening on port 59984
+Read port: 59984
+WebDriver BiDi listening on ws://127.0.0.1:59963
+1669185103638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileTZqDkh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59963/devtools/browser/a3579df4-52e7-4e7d-aaa6-1ef33b375e68
+1669185156778	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1669185162579	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669185251949	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669185958257	geckodriver	INFO	Listening on 127.0.0.1:60372
+1669185961352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60373" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileClNk7p"
+1669185961776	Marionette	INFO	Marionette enabled
+1669185961781	Marionette	INFO	Listening on port 60384
+Read port: 60384
+WebDriver BiDi listening on ws://127.0.0.1:60373
+1669185961881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileClNk7p\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60373/devtools/browser/23e6b641-e87e-4694-87d2-61de8f3c57e3
+1669186495463	Marionette	INFO	Stopped listening on port 60384
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60392" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile9G2ojY"
+1669185966963	Marionette	INFO	Marionette enabled
+1669185966970	Marionette	INFO	Listening on port 60415
+Read port: 60415
+WebDriver BiDi listening on ws://127.0.0.1:60392
+1669185967078	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile9G2ojY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60392/devtools/browser/7a98f59d-c7e8-46d9-866a-4807484bc94a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1669186128670	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+Shutting down due to socket process crash.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1669186589704	Marionette	INFO	Stopped listening on port 60415
+e-debugging-port" "60600" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileZaPutu"
+1669186587179	Marionette	INFO	Marionette enabled
+1669186587188	Marionette	INFO	Listening on port 60617
+Read port: 60617
+WebDriver BiDi listening on ws://127.0.0.1:60600
+1669186587349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileZaPutu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60600/devtools/browser/29d6e9e7-0d3c-4987-ab3d-b40b7194aff3
+Shutting down due to socket process crash.
+[Parent 21596, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2211: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2211: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2211: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2211: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2211: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1669186638061	geckodriver	INFO	Listening on 127.0.0.1:60722
+1669186641193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60723" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilefW2eks"
+1669186641626	Marionette	INFO	Marionette enabled
+1669186641633	Marionette	INFO	Listening on port 60735
+Read port: 60735
+WebDriver BiDi listening on ws://127.0.0.1:60723
+1669186641756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilefW2eks\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60723/devtools/browser/f3f50a88-c807-4169-8665-aa6ce6a8d62d
+1669186656866	Marionette	INFO	Stopped listening on port 60735
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669186672091	geckodriver	INFO	Listening on 127.0.0.1:60918
+1669186675205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60919" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileCjSn5p"
+1669186675609	Marionette	INFO	Marionette enabled
+1669186675614	Marionette	INFO	Listening on port 60930
+Read port: 60930
+WebDriver BiDi listening on ws://127.0.0.1:60919
+1669186675711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileCjSn5p\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60919/devtools/browser/de3ea6f2-ec5f-4789-80d1-3cb6414c0613
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1669186916245	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://muqawil.org/ar/admin/d/contractorreport, line 670746: TypeError: $(...).dateRangePicker is not a function
+1669187070027	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669187095264	Marionette	INFO	Stopped listening on port 60930
+1669200827804	geckodriver	INFO	Listening on 127.0.0.1:51789
+1669200830873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51790" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileTGnYeP"
+1669200831530	Marionette	INFO	Marionette enabled
+1669200831537	Marionette	INFO	Listening on port 51802
+WebDriver BiDi listening on ws://127.0.0.1:51790
+Read port: 51802
+1669200831824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileTGnYeP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51790/devtools/browser/a920750b-a1b8-4fd7-b7f9-8778d006e289
+1669207569209	Marionette	INFO	Stopped listening on port 51802
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51810" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilekyyX4e"
+1669200836875	Marionette	INFO	Marionette enabled
+1669200836881	Marionette	INFO	Listening on port 51830
+Read port: 51830
+WebDriver BiDi listening on ws://127.0.0.1:51810
+1669200836978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilekyyX4e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51810/devtools/browser/51ea8008-87ef-462e-9c54-482b759013a0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1669200981242	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669201089141	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669201114390	Marionette	INFO	Stopped listening on port 51830
+1669284280846	geckodriver	INFO	Listening on 127.0.0.1:52211
+1669284283929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52212" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilend3mtD"
+1669284285607	Marionette	INFO	Marionette enabled
+1669284285615	Marionette	INFO	Listening on port 52226
+Read port: 52226
+WebDriver BiDi listening on ws://127.0.0.1:52212
+1669284285778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilend3mtD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52212/devtools/browser/a5ed4533-6b01-4b5c-af1f-5eed92f002d3
+1669284860515	Marionette	INFO	Stopped listening on port 52226
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 14208, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+cal\\Temp\\rust_mozprofileptJO9E"
+1669284305520	Marionette	INFO	Marionette enabled
+1669284305526	Marionette	INFO	Listening on port 52258
+Read port: 52258
+WebDriver BiDi listening on ws://127.0.0.1:52235
+1669284305642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileptJO9E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52235/devtools/browser/1317f031-1d90-49d6-b065-0d3056d9d14f
+1669284407816	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1669284411595	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669284497676	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669284609927	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669284635163	Marionette	INFO	Stopped listening on port 52258
+1669285458012	geckodriver	INFO	Listening on 127.0.0.1:53214
+1669285461059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53215" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileil6bUB"
+1669285461596	Marionette	INFO	Marionette enabled
+1669285461603	Marionette	INFO	Listening on port 53226
+Read port: 53226
+WebDriver BiDi listening on ws://127.0.0.1:53215
+1669285461713	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileil6bUB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53215/devtools/browser/e29e7c2e-1f34-4ba3-97ec-f96154deb845
+1669285514963	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1669285518753	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669285607906	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669285713096	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669285738321	Marionette	INFO	Stopped listening on port 53226
+1669642659456	geckodriver	INFO	Listening on 127.0.0.1:55654
+1669642662535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55655" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0m8vPP"
+1669642663180	Marionette	INFO	Marionette enabled
+1669642663186	Marionette	INFO	Listening on port 55668
+Read port: 55668
+WebDriver BiDi listening on ws://127.0.0.1:55655
+1669642663306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0m8vPP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55655/devtools/browser/c91327d7-e06d-4889-95f5-a31dc0612b4a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1669643049299	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669643162305	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669643187549	Marionette	INFO	Stopped listening on port 55668
