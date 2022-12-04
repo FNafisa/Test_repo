@@ -2034,3 +2034,15 @@ TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
 interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
 webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
 1669893134170	Marionette	INFO	Stopped listening on port 63282
+1670119917875	geckodriver	INFO	Listening on 127.0.0.1:64943
+1670119920929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64944" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiledzbMDB"
+1670119923361	Marionette	INFO	Marionette enabled
+1670119923370	Marionette	INFO	Listening on port 64959
+Read port: 64959
+WebDriver BiDi listening on ws://127.0.0.1:64944
+1670119923541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiledzbMDB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64944/devtools/browser/d0b1a7b4-5a6f-44ec-9938-793929a7935d
+1670119928832	Marionette	INFO	Stopped listening on port 64959
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
