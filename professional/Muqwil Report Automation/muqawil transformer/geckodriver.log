@@ -2119,3 +2119,22 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://127.0.0.1:51895/devtools/browser/12761458-4140-48dd-b342-605e8dd7a9f2
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1670486645157	geckodriver	INFO	Listening on 127.0.0.1:52057
+1670486648214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52058" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileylZENV"
+1670486648596	Marionette	INFO	Marionette enabled
+1670486648601	Marionette	INFO	Listening on port 52067
+Read port: 52067
+WebDriver BiDi listening on ws://127.0.0.1:52058
+1670486648715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileylZENV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52058/devtools/browser/c477ae71-e3f0-4234-a1eb-fb05901f58db
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1670486746442	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670486863393	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1670486967878	Marionette	INFO	Stopped listening on port 52067
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
