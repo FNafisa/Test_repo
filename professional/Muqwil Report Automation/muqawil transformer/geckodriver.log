@@ -2046,3 +2046,76 @@ DevTools listening on ws://127.0.0.1:64944/devtools/browser/d0b1a7b4-5a6f-44ec-9
 1670119928832	Marionette	INFO	Stopped listening on port 64959
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1670484137261	geckodriver	INFO	Listening on 127.0.0.1:50778
+1670484140330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50779" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilegCh2zk"
+1670484142219	Marionette	INFO	Marionette enabled
+1670484142226	Marionette	INFO	Listening on port 50792
+WebDriver BiDi listening on ws://127.0.0.1:50779
+Read port: 50792
+1670484142559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilegCh2zk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50779/devtools/browser/fcd9e466-32fc-450b-80ec-4b37cab138a4
+1670484161868	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1670484165664	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670484435290	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1670484438145	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+JavaScript error: https://muqawil.org/ar/admin/d/contractorreport, line 1: ReferenceError: cont_report_check is not defined
+JavaScript error: https://muqawil.org/ar/admin/d/contractorreport, line 1: ReferenceError: cont_report_check is not defined
+1670484597593	Marionette	INFO	Stopped listening on port 50792
+1670485403371	geckodriver	INFO	Listening on 127.0.0.1:51507
+1670485406424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51508" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile9qP0jz"
+1670485406920	Marionette	INFO	Marionette enabled
+1670485406927	Marionette	INFO	Listening on port 51517
+Read port: 51517
+WebDriver BiDi listening on ws://127.0.0.1:51508
+1670485407045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile9qP0jz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51508/devtools/browser/a42ad1a2-7956-495f-9222-f8eb0ba29c8e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1670485508302	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670485671434	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670485696877	Marionette	INFO	Stopped listening on port 51517
+[Parent 24604, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1670485759461	geckodriver	INFO	Listening on 127.0.0.1:51644
+1670485762509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51645" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileHxfOqu"
+1670485762973	Marionette	INFO	Marionette enabled
+1670485762978	Marionette	INFO	Listening on port 51655
+WebDriver BiDi listening on ws://127.0.0.1:51645
+Read port: 51655
+1670485763208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileHxfOqu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51645/devtools/browser/66eba97b-9d6f-48cc-8f23-2c10d31b09b2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+1670486476009	Marionette	INFO	Stopped listening on port 51655
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51895" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0T9RYD"
+1670486473149	Marionette	INFO	Marionette enabled
+1670486473156	Marionette	INFO	Listening on port 51908
+WebDriver BiDi listening on ws://127.0.0.1:51895
+Read port: 51908
+1670486473366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0T9RYD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51895/devtools/browser/12761458-4140-48dd-b342-605e8dd7a9f2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://muqawil.org."
