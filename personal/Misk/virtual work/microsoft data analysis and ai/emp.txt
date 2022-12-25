@@ -1,0 +1,4 @@
+Toyota Camry, 32000
+Porsche Panemera, 350000
+Lexus IS, 65000
+Kia Optima, 25000
